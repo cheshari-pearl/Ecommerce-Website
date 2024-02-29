@@ -1,0 +1,89 @@
+#container{
+   background-color: beige;
+       font-size: larger;
+       overflow: hidden;
+       padding: 70px 10%;
+
+}
+
+.img{
+    height: 150px;
+    width: 150px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.image{
+    height: 500px;
+    width: 500px;
+}
+
+#icon{
+    display: flex;
+    justify-content: space-between;
+
+    margin-left: 20%;
+    
+}
+
+.list{
+    padding: 70px 10%;
+
+    font-size: large;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+#elevate{
+    display: grid;
+    grid-template-columns: auto auto;
+    padding: 70px 10%;
+}
+
+#bestseller{
+    display: flex;
+    justify-content: space-between;
+    padding: 70px 10%;
+}
+#restyle{
+    padding: 70px 10%;
+    display: grid;
+    grid-template-columns: 1fr 1fr; 
+     
+    
+}
+#heading{
+    text-align: center;
+}
+#header{
+    text-align: center;
+}
+#heads{
+    text-align: center;
+}
+
+#online{
+    padding: 70px 10%;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+
+}
+#reviews{
+    padding: 70px 10%;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+   
+}
+#buttons{
+    display: flex;
+    justify-content: start;
+}
+
+.p1{
+font-size: larger;
+text-align: center;
+}
+numbers{
+    display: flex;
+    justify-content: start;
+}
